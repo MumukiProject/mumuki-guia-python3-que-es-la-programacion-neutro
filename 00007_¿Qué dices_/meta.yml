@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: hoal, ¿qéu haecs?
   checked: false
-name: "¿Qué decís?"
+name: "¿Qué dices?"

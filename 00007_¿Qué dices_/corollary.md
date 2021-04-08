@@ -1,4 +1,4 @@
-¡Perfecto! solo la segunda frase cumplía las reglas del lenguaje español pero probablemente pudiste comprender todas a pesar de que en algunas: 
+¡Perfecto! Solo la segunda frase cumplía las reglas del lenguaje español, pero probablemente pudiste comprender todas a pesar de que en algunas: 
 
 * las palabras pueden estar mal hescritas; :stuck_out_tongue_winking_eye:
 * ¡pueden faltar signos de puntuación!;

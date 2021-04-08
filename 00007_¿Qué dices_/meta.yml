@@ -16,7 +16,7 @@ choices:
   value: hola, ¿qué haces?
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "?hola qué hacés¿"
+  value: "?hola qué haces¿"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: hola, que? haces

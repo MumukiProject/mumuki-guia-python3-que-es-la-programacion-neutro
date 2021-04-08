@@ -1,6 +1,6 @@
 Para escribir código cómodamente vamos a necesitar una herramienta llamada editor de código, que se parece bastante a un editor de texto, pero no sirve para escribir poemas, currículums, o trabajos prácticos de la escuela (donde nos va a importar que nos corrija la ortografía, subrayar, poner negritas o cambiar colores), sino para crear programas. :star_struck:
 
-Muchos de estos editores de código (o editores a secas, de ahora en más) se pueden instalar en tu propia computadora. Algunos de ellos son: 
+Muchos de estos editores de código (o editores a secas, de ahora en más) se pueden instalar en tu propia computadora. Algunos de ellos son:
 
 * [Sublime](https://www.sublimetext.com/);
 * [Visual Studio Code](https://code.visualstudio.com/);
@@ -11,4 +11,4 @@ Además, para desarrollar aplicaciones y sistemas más complejos, existen herram
 
 Pero no te preocupes, que para dar nuestros primeros pasos no vamos a necesitar instalar nada aún: Mumuki ya te provee un editor de código online. :globe_with_meridians:
 
-> Ahora te toca a vos: escribí en el editor de código de Mumuki `Quiero empezar ya a programar`. 
+> Ahora te toca a vos: escribe en el editor de código de Mumuki `Quiero empezar ya a programar`.

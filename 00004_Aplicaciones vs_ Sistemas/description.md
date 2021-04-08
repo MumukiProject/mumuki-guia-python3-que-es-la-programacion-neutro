@@ -6,4 +6,4 @@ Si bien muchas veces utilizamos el término aplicación para hablar tanto de una
 * por el contrario, los sistemas están compuestos por muchos programas y aplicaciones interconectados, que son operados por diferentes personas y pueden resolver problemas múltiples y más complejos. 
 
 > ¿Cuáles de los siguientes crees que son sistemas? 
-> Si no conocés alguno de estos nombres, podés darles click.  
+> Si no conoces alguno de estos nombres, puedes darles click.  

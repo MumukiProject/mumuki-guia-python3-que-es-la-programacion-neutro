@@ -8,23 +8,18 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Licuadora antigua.
+- value: Licuadora antigua.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Consola de videojuegos.
+- value: Consola de videojuegos.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Navegador GPS.
+- value: Navegador GPS.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Teléfono celular.
+- value: Teléfono celular.
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Una mesa de madera.
+- value: Una mesa de madera.
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Cajero automático.
+- value: Cajero automático.
   checked: true
 name: "¿Esto también es una computadora?"
